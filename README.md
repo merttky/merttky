@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Kaya</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">Computer Engineering student at Yildiz Technical University
+</h3>
 
 - 💬 Ask me about **llm**
 
