@@ -2,8 +2,6 @@
 <h3 align="center">Computer Engineering student at Yildiz Technical University
 </h3>
 
-- 💬 Ask me about **llm**
-
 - 📫 How to reach me **mertkayaa@aol.com**
 
 <h3 align="left">Connect with me:</h3>
